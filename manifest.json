@@ -1,0 +1,11 @@
+{
+	"id": "utm-linker",
+	"name": "UTM Linker",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Display and manage links with UTM parameters inside Obsidian notes.",
+	"author": "Tim Kelly",
+	"authorUrl": "https://timotheekelly.com",
+	"isDesktopOnly": false
+  }
+  

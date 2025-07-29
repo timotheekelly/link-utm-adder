@@ -1,0 +1,47 @@
+.link-panel-view {
+  padding: 10px;
+}
+
+.utm-field-container {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: column;
+}
+
+.utm-field-container input {
+  padding: 6px;
+  margin-top: 4px;
+}
+
+.button-container {
+  display: flex;
+  gap: 8px;
+  margin: 10px 0;
+}
+
+.link-panel-content h3 {
+  margin-top: 12px;
+  margin-bottom: 6px;
+}
+
+.link-panel-content ul.utm-link-list {
+  list-style-type: disc !important;
+  padding-left: 20px !important;
+}
+
+.link-panel-content li {
+  margin-bottom: 4px;
+}
+
+.link-panel-content button {
+  padding: 6px 12px;
+  cursor: pointer;
+  border-radius: 4px;
+  background-color: var(--interactive-normal);
+  color: var(--text-normal);
+  border: 1px solid var(--background-modifier-border);
+}
+
+.link-panel-content button:hover {
+  background-color: var(--interactive-hover);
+}
